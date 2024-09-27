@@ -1,5 +1,5 @@
 ---
-title: "MY-FIRST-POST"
+title: "MyFirstPost"
 date: 2024-09-27
 ---
 
